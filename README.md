@@ -1,4 +1,5 @@
 site_generator
 ==============
 
-some rails production scripts. 
+Here is some rails production scripts.  
+
